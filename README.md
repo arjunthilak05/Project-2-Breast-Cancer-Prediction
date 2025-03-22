@@ -1,5 +1,5 @@
 # Breast Cancer Classification with Machine Learning
-![BS cancer](https://raw.githubusercontent.com/arjunthilak05/Project-1-Stock-Market-Prediction/9397c938d57ad146fcd6fbfdefce82936398adeb/output.png)
+![BS cancer](https://github.com/arjunthilak05/Project-2-Breast-Cancer-Prediction/blob/main/output.png?raw=true)
 ## Project Overview
 This project implements a machine learning pipeline to classify breast cancer tumors as malignant (M) or benign (B) using a dataset of digitized breast mass features. The pipeline includes data loading, exploratory data analysis, preprocessing, dimensionality reduction with PCA, and classification using Support Vector Machines.
 
